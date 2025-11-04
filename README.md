@@ -1,1 +1,1 @@
-<div id="header" align="center"> <img src="https://media1.tenor.com/m/Ala0X-_4Gy0AAAAC/project-sekai-rui.gif" width="100"/> </div> <h1> info->  https://t.me/pashacitrus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+<div id="header" align="center"> <img src="https://media1.tenor.com/m/Ala0X-_4Gy0AAAAC/project-sekai-rui.gif" width="1000"/> </div> <h1> info->  https://t.me/pashacitrus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1px"/> </h1>
